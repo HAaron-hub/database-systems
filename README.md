@@ -3,11 +3,12 @@ Database Systems
 
 ## Categories
 
-- Slides
 - Assignments
+- Courseworks
 - Labs
 - Resources
-
+- Slides
+  
 ## Exams and Grading Policy
 
 - Attendance: 20%
